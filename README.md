@@ -7,9 +7,9 @@
 🚀 Projects: Portfolio | IoT Projects | Stock Market Dashboard  
 
 ## 🔧 Skills
-- **Languages:**  C++, Python, JavaScript
+- **Languages:**  C++, Python, core java
 - **Tools:** Git, Arduino, SracleSQL
-- **Web Tech:** HTML, CSS, JavaScript, Bootstrap
+- **Web Tech:** HTML, CSS, JavaScript, Bootstrap,React.js
 
 ## 🛠️ Projects
 
