@@ -8,7 +8,7 @@
 
 ## 🔧 Skills
 - **Languages:**  C++, Python, core java
-- **Tools:** Git, Arduino, SracleSQL
+- **Tools:** Git, Arduino, OracleSQL
 - **Web Tech:** HTML, CSS, JavaScript, Bootstrap,React.js
 
 ## 🛠️ Projects
@@ -22,8 +22,6 @@
 
 
 
-<!--
-**darshanchandrakar/darshanchandrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
